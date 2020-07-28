@@ -10,5 +10,10 @@
     {
       "path": "./tsconfig.app.json"
     }
-]
+  ],
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "outDir": "./dist/out-tsc",
+    "rootDir": "./src",
+  }
 }

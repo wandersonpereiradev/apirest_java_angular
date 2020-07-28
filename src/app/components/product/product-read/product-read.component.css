@@ -1,0 +1,15 @@
+.tableList {
+    width: 100%;
+}
+
+.edit {
+    margin: 0px 10px 0 -10px;
+}
+
+.edit > i {
+    color: #d9cd26;
+}
+
+.delete > i {
+    color: #e35e6b;
+}
